@@ -273,7 +273,7 @@ form .fa-magnifying-glass{
     grid-template-columns: repeat(4, 1fr);
     gap: 40px;
     margin: auto;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     padding: 10px;
 
 }
@@ -285,7 +285,7 @@ form .fa-magnifying-glass{
 
 .article > a > div{
     width: auto;
-    height: 320px;
+    height: 300px;
     text-align: center;
     color: #4f585e;
     font-weight: 600;
